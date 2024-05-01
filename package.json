@@ -1,0 +1,14 @@
+{
+  "name": "number-to-human",
+  "version": "0.0.1",
+  "description": "Humanize numbers",
+  "main": "index.js",
+  "repository": "git@github.com:pcandido/number-to-human.git",
+  "author": "Paulo Cândido <pcandido.m@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5"
+  }
+}
