@@ -1,9 +1,9 @@
 {
-  "name": "number-to-human",
+  "name": "humanize-js",
   "version": "0.0.1",
-  "description": "Humanize numbers",
+  "description": "Format values (number, dates, etc) to improve human readability",
   "main": "index.js",
-  "repository": "git@github.com:pcandido/number-to-human.git",
+  "repository": "git@github.com:pcandido/humanize-js.git",
   "author": "Paulo Cândido <pcandido.m@gmail.com>",
   "license": "MIT",
   "private": false,
