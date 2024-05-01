@@ -1,2 +1,2 @@
-# number-to-human
-Humanize numbers
+# humanize-values
+

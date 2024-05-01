@@ -1,9 +1,9 @@
 {
-  "name": "humanize-js",
+  "name": "humanize-values",
   "version": "0.0.1",
   "description": "Format values (number, dates, etc) to improve human readability",
   "main": "index.js",
-  "repository": "git@github.com:pcandido/humanize-js.git",
+  "repository": "git@github.com:pcandido/humanize-values.git",
   "author": "Paulo Cândido <pcandido.m@gmail.com>",
   "license": "MIT",
   "private": false,
